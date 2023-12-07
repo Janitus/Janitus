@@ -11,6 +11,6 @@ Currently studying CS, and developing games on Unity when free. Current main uni
 
 # Showcase
 
-![Img1](https://github.com/Janitus/Janitus/blob/main/media/mapgen.mp4)
-![Img1](https://github.com/Janitus/Janitus/blob/main/media/Terrain.jpg)
-![Img1](https://github.com/Janitus/Janitus/blob/main/media/Suihkari.jpg)
+![Img1](https://github.com/Janitus/Janitus/blob/main/media/mapgen1.jpg)
+![Img2](https://github.com/Janitus/Janitus/blob/main/media/Terrain.jpg)
+![Img3](https://github.com/Janitus/Janitus/blob/main/media/Suihkari.jpg)
