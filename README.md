@@ -30,7 +30,7 @@ Currently studying CS, and developing games on Unity when free. Current main uni
   </tr>
 </table>
 
-### Cloud & Moon Shader Work (Smoother available ![here](https://i.gyazo.com/27c5a06b47f0ac2483126a447f795985.mp4))
+### Cloud & Moon Shader Work ([Smoother version here](https://i.gyazo.com/27c5a06b47f0ac2483126a447f795985.mp4))
 <img src="https://i.gyazo.com/27c5a06b47f0ac2483126a447f795985.gif" width="500"/>
 
 ### Topdown Bullet Hell Game
