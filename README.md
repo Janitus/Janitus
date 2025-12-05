@@ -9,7 +9,7 @@ Currently studying CS, and developing games on Unity when free. Current main uni
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# Showcase
+# Game tech showcase
 
 ### Snapshots for a map generator within Unity, adhering to game-specific constraints
 ![Img1](https://github.com/Janitus/Janitus/blob/main/media/mapgen1.jpg)
