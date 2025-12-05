@@ -20,17 +20,11 @@ Currently studying CS, and developing games on Unity when free. Current main uni
 
 # Game tech showcase
 
-<table>
-  <tr>
-    <td><img src="media/mapgen1.jpg"></td>
-    <td><img src="media/Terrain.jpg"></td>
-  </tr>
-  <tr>
-    <td><img src="https://i.gyazo.com/27c5a06b47f0ac2483126a447f795985.gif"></td>
-    <td><img src="media/Suihkari.jpg"></td>
-  </tr>
-  <tr>
-    <td><img src="https://i.gyazo.com/69c25db70fef6dc7bc4c89e4c321a0ce.jpg"></td>
-    <td></td>
-  </tr>
-</table>
+
+<p align="left" style="display: flex; flex-wrap: wrap;">
+  <img src="media/mapgen1.jpg" style="max-width: 45%; margin: 4px;">
+  <img src="media/Terrain.jpg" style="max-width: 45%; margin: 4px;">
+  <img src="https://i.gyazo.com/27c5a06b47f0ac2483126a447f795985.gif" style="max-width: 45%; margin: 4px;">
+  <img src="media/Suihkari.jpg" style="max-width: 45%; margin: 4px;">
+  <img src="https://i.gyazo.com/69c25db70fef6dc7bc4c89e4c321a0ce.jpg" style="max-width: 45%; margin: 4px;">
+</p>
