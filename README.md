@@ -11,7 +11,12 @@ Currently studying CS, and developing games on Unity when free. Current main uni
 
 # Showcase
 
+### Snapshots for a map generator within Unity, adhering to game-specific constraints
 ![Img1](https://github.com/Janitus/Janitus/blob/main/media/mapgen1.jpg)
 ![Img2](https://github.com/Janitus/Janitus/blob/main/media/Terrain.jpg)
+
+### Topdown bullet hell game
 ![Img3](https://github.com/Janitus/Janitus/blob/main/media/Suihkari.jpg)
+
+### A website where users can upload any images as game maps, allocate game markers to share with their friends, along with customizable access-controls, icons, etc.
 ![Img4](https://i.gyazo.com/69c25db70fef6dc7bc4c89e4c321a0ce.jpg)
