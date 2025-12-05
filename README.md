@@ -15,7 +15,7 @@ Currently studying CS, and developing games on Unity when free. Current main uni
 ![Img1](https://github.com/Janitus/Janitus/blob/main/media/mapgen1.jpg)
 ![Img2](https://github.com/Janitus/Janitus/blob/main/media/Terrain.jpg)
 
-### Shader works on clouds & moon
+### Shader works on clouds & moon (Smoother one available here https://i.gyazo.com/27c5a06b47f0ac2483126a447f795985.mp4)
 ![Gif1](https://i.gyazo.com/27c5a06b47f0ac2483126a447f795985.gif)
 
 ### Topdown bullet hell game
