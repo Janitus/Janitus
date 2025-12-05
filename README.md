@@ -2,13 +2,17 @@
 
 Currently studying CS, and developing games on Unity when free. Current main unity project is an unannounced FPS game, will include it in the personal projects showcase section later (probably somewhere next spring)
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+# 💻 Domains I work with:
+![Fullstack Development](https://img.shields.io/badge/Fullstack_Development-444444?style=for-the-badge)
+![Game Development](https://img.shields.io/badge/Game_Development-555555?style=for-the-badge)
+![Graphics & Shaders](https://img.shields.io/badge/Graphics_&_Shaders-666666?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-777777?style=for-the-badge)
+![LLM Engineering](https://img.shields.io/badge/LLM_Engineering-888888?style=for-the-badge)
+![Cloud Deployment](https://img.shields.io/badge/Cloud_Deployment-999999?style=for-the-badge)
+![Testing](https://img.shields.io/badge/Testing-AAAAAA?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps-BBBBBB?style=for-the-badge)
+![Systems Design](https://img.shields.io/badge/Systems_Design-CCCCCC?style=for-the-badge)
+
 
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Janitus&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Janitus&theme=github_dark) 
