@@ -20,15 +20,17 @@ Currently studying CS, and developing games on Unity when free. Current main uni
 
 # Game tech showcase
 
-### Snapshots for a map generator within Unity, adhering to game-specific constraints
-![Img1](https://github.com/Janitus/Janitus/blob/main/media/mapgen1.jpg)
-![Img2](https://github.com/Janitus/Janitus/blob/main/media/Terrain.jpg)
-
-### Shader works on clouds & moon (Smoother one available here https://i.gyazo.com/27c5a06b47f0ac2483126a447f795985.mp4)
-![Gif1](https://i.gyazo.com/27c5a06b47f0ac2483126a447f795985.gif)
-
-### Topdown bullet hell game
-![Img3](https://github.com/Janitus/Janitus/blob/main/media/Suihkari.jpg)
-
-### A website where users can upload any images as game maps, allocate game markers to share with their friends, along with customizable access-controls, icons, etc.
-![Img4](https://i.gyazo.com/69c25db70fef6dc7bc4c89e4c321a0ce.jpg)
+<table>
+  <tr>
+    <td><img src="https://github.com/Janitus/Janitus/blob/main/media/mapgen1.jpg" width="400"/></td>
+    <td><img src="https://github.com/Janitus/Janitus/blob/main/media/Terrain.jpg" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.gyazo.com/27c5a06b47f0ac2483126a447f795985.gif" width="400"/></td>
+    <td><img src="https://github.com/Janitus/Janitus/blob/main/media/Suihkari.jpg" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.gyazo.com/69c25db70fef6dc7bc4c89e4c321a0ce.jpg" width="400"/></td>
+    <td></td>
+  </tr>
+</table>
