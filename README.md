@@ -22,15 +22,13 @@ Currently studying CS, and developing games on Unity when free. Current main uni
 
 <table>
   <tr>
-    <td><img src="https://github.com/Janitus/Janitus/blob/main/media/mapgen1.jpg" width="400"/></td>
-    <td><img src="https://github.com/Janitus/Janitus/blob/main/media/Terrain.jpg" width="400"/></td>
+    <td><img src="https://github.com/Janitus/Janitus/blob/main/media/mapgen1.jpg" width="300"/></td>
+    <td><img src="https://github.com/Janitus/Janitus/blob/main/media/Terrain.jpg" width="300"/></td>
+    <td><img src="https://i.gyazo.com/27c5a06b47f0ac2483126a447f795985.gif" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="https://i.gyazo.com/27c5a06b47f0ac2483126a447f795985.gif" width="400"/></td>
-    <td><img src="https://github.com/Janitus/Janitus/blob/main/media/Suihkari.jpg" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://i.gyazo.com/69c25db70fef6dc7bc4c89e4c321a0ce.jpg" width="400"/></td>
+    <td><img src="https://github.com/Janitus/Janitus/blob/main/media/Suihkari.jpg" width="300"/></td>
+    <td><img src="https://i.gyazo.com/69c25db70fef6dc7bc4c89e4c321a0ce.jpg" width="300"/></td>
     <td></td>
   </tr>
 </table>
