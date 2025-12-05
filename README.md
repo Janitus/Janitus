@@ -6,7 +6,6 @@ Currently studying CS, and developing games on Unity when free. Current main uni
 ![Fullstack Development](https://img.shields.io/badge/Fullstack_Development-444444?style=for-the-badge)
 ![Game Development](https://img.shields.io/badge/Game_Development-555555?style=for-the-badge)
 ![Graphics & Shaders](https://img.shields.io/badge/Graphics_&_Shaders-666666?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-777777?style=for-the-badge)
 ![LLM Engineering](https://img.shields.io/badge/LLM_Engineering-888888?style=for-the-badge)
 ![Cloud Deployment](https://img.shields.io/badge/Cloud_Deployment-999999?style=for-the-badge)
 ![Testing](https://img.shields.io/badge/Testing-AAAAAA?style=for-the-badge)
