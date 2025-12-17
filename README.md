@@ -1,6 +1,6 @@
 # What am I working on
 
-Currently studying CS, and developing games on Unity and Godot when free.
+Currently finalizing master's degree on Computer Science, and developing games on Unity and Godot when free.
 
 # 💻 Domains I work with:
 ![Fullstack Development](https://img.shields.io/badge/Fullstack_Development-444444?style=for-the-badge)
