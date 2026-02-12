@@ -1,22 +1,8 @@
 # What am I working on
 
-Currently I am working on a website which will be deployed on Railway, which will be used to manage game maps and markers. For those interested, the tech stack is the following:
+Currently I am working on a website which will be deployed on Railway, which will be used to manage game maps and markers. The project can be seen in [Project description here](public-project-descriptions/project-map-website.md).
 
-| Layer        | Technology                   |
-|--------------|------------------------------|
-| Framework    | Next.js 15 (App Router)      |
-| Language     | TypeScript                   |
-| Database     | SQLite (dev) / PostgreSQL (prod) |
-| ORM          | Prisma 7                     |
-| Auth         | Auth.js v5 (Discord OAuth)   |
-| Map          | React Leaflet + Leaflet      |
-| Cache        | Redis (optional)             |
-| Styling      | Tailwind CSS + Radix UI      |
-| Validation   | Zod                          |
-| Unit tests   | Vitest                       |
-| E2E tests    | Playwright                   |
-
-After this, I will be resuming my work on a game project that was on hold for the time of my studies.
+After this, I will be resuming my work on a game project that was on hold for the time of my studies. [Project description here](public-project-descriptions/project-BulletHell.md).
 
 # 💻 Domains I work with:
 ![Fullstack Development](https://img.shields.io/badge/Fullstack_Development-444444?style=for-the-badge)
@@ -54,3 +40,5 @@ After this, I will be resuming my work on a game project that was on hold for th
 
 ### Map Uploading & Sharing Website ([See example video](https://i.gyazo.com/7474fe431e869beec751af81045cebfc.mp4))
 <img src="media/f504731e07affeba392599f4a7982b29.jpg" width="500"/>
+
+For those who are interested, techstack can be seen here:
