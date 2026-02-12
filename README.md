@@ -40,5 +40,3 @@ After this, I will be resuming my work on a game project that was on hold for th
 
 ### Map Uploading & Sharing Website ([See example video](https://i.gyazo.com/7474fe431e869beec751af81045cebfc.mp4))
 <img src="media/f504731e07affeba392599f4a7982b29.jpg" width="500"/>
-
-For those who are interested, techstack can be seen here:
