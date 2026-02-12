@@ -37,4 +37,4 @@ Currently finalizing master's degree on Computer Science, and developing games o
 <img src="media/Suihkari.jpg" width="500"/>
 
 ### Map Uploading & Sharing Website
-<img src="https://i.gyazo.com/69c25db70fef6dc7bc4c89e4c321a0ce.jpg" width="500"/>
+<img src="media/f504731e07affeba392599f4a7982b29.jpg" width="500"/>
