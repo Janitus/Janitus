@@ -36,5 +36,5 @@ Currently finalizing master's degree on Computer Science, and developing games o
 ### Topdown Bullet Hell Game
 <img src="media/Suihkari.jpg" width="500"/>
 
-### Map Uploading & Sharing Website
+### Map Uploading & Sharing Website ([See example video](https://i.gyazo.com/7474fe431e869beec751af81045cebfc.mp4))
 <img src="media/f504731e07affeba392599f4a7982b29.jpg" width="500"/>
