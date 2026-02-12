@@ -1,6 +1,22 @@
 # What am I working on
 
-Currently finalizing master's degree on Computer Science, and developing games on Unity and Godot when free.
+Currently I am working on a website which will be deployed on Railway, which will be used to manage game maps and markers. For those interested, the tech stack is the following:
+
+| Layer        | Technology                   |
+|--------------|------------------------------|
+| Framework    | Next.js 15 (App Router)      |
+| Language     | TypeScript                   |
+| Database     | SQLite (dev) / PostgreSQL (prod) |
+| ORM          | Prisma 7                     |
+| Auth         | Auth.js v5 (Discord OAuth)   |
+| Map          | React Leaflet + Leaflet      |
+| Cache        | Redis (optional)             |
+| Styling      | Tailwind CSS + Radix UI      |
+| Validation   | Zod                          |
+| Unit tests   | Vitest                       |
+| E2E tests    | Playwright                   |
+
+After this, I will be resuming my work on a game project that was on hold for the time of my studies.
 
 # 💻 Domains I work with:
 ![Fullstack Development](https://img.shields.io/badge/Fullstack_Development-444444?style=for-the-badge)
