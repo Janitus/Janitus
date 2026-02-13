@@ -2,7 +2,7 @@ To be deployed on February 2026.
 
 # What is it?
 
-This is a website where people can collaborate on intel found within video games by uploading game maps and uploading markers on it.
+This platform enables users to collaborate on in-game intelligence by uploading custom game maps and placing interactive markers to share information with others.
 
 <table>
   <tr>
