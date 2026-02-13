@@ -1,4 +1,4 @@
-To be deployed on February 2026.
+To be deployed later in 2026.
 
 # What is it?
 
