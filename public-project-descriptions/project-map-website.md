@@ -2,7 +2,7 @@ To be deployed later in 2026.
 
 # What is it?
 
-This platform enables users to collaborate on in-game intelligence by uploading custom game maps and placing interactive markers to share information with others.
+This platform enables users to collaborate on in-game intelligence by uploading custom game maps and placing interactive markers to share information with others. [Video link](https://i.gyazo.com/7474fe431e869beec751af81045cebfc.mp4)
 
 <table>
   <tr>
