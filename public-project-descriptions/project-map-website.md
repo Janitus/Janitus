@@ -12,14 +12,20 @@ This is a website where people can collaborate on intel found within video games
 </table>
 
 ## Features
-- Highly customizable categories and subcategories
-- Adjustable filters for ease of searching
-- ACL-based access right controls ensuring privacy to each individual game and the platform as a whole.
-- Easy-to-use UX, avoiding manual work for both users and admins
-- Optimized to handle high volume of requests via caches (Redis), load balancers and replicas, and sharding.
-- Discord based auth
-- UPCOMING: Auth will support SSO later
-- UPCOMING: Mobile version
+
+- Highly customizable category and subcategory system  
+- Advanced filtering for efficient search and navigation  
+- Fine-grained ACL-based access control ensuring privacy per game and across the platform  
+- Intuitive UX minimizing manual effort for both users and administrators  
+- Designed for high scalability using caching (Redis), load balancing, replication, and sharding  
+- Discord-based authentication  
+
+## Upcoming
+
+- Single Sign-On (SSO) support  
+- Mobile-optimized version
+- Additional marker types (Zones & Lines)
+
 
 ## Tech stack
 
