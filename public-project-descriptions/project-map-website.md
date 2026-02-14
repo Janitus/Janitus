@@ -25,7 +25,7 @@ This platform enables users to collaborate on in-game intelligence by uploading 
 - Single Sign-On (SSO) support  
 - Mobile-optimized version
 - Additional marker types (Zones & Lines)
-
+- Automated AI-based Admin reports on collected data (Statistics & Logs)
 
 ## Tech stack
 
