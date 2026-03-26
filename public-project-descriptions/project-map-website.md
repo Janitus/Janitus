@@ -29,16 +29,56 @@ This platform enables users to collaborate on in-game intelligence by uploading 
 
 ## Tech stack
 
-| Layer        | Technology                   |
-|--------------|------------------------------|
-| Framework    | Next.js 15 (App Router)      |
-| Language     | TypeScript                   |
-| Database     | SQLite (dev) / PostgreSQL (prod) |
-| ORM          | Prisma 7                     |
-| Auth         | Auth.js v5 (Discord OAuth)   |
-| Map          | React Leaflet + Leaflet      |
-| Cache        | Redis (optional)             |
-| Styling      | Tailwind CSS + Radix UI      |
-| Validation   | Zod                          |
-| Unit tests   | Vitest                       |
-| E2E tests    | Playwright                   |
+| Layer           | Technology                                       |
+|-----------------|--------------------------------------------------|
+| Framework       | Next.js 16 (App Router)                          |
+| Language        | TypeScript                                       |
+| Database        | SQLite (dev) / PostgreSQL (prod)                 |
+| ORM             | Prisma 7                                         |
+| Auth            | Auth.js v5 (Discord OAuth)                       |
+| Map             | Leaflet (imperative) + leaflet.markercluster     |
+| Client cache    | IndexedDB via `idb`                              |
+| Styling         | Tailwind CSS v4                                  |
+| UI primitives   | Radix UI (dialog, dropdown, select, label)       |
+| Validation      | Zod                                              |
+| Image processing| sharp                                            |
+| Cloud storage   | Cloudflare R2 (S3-compatible)                    |
+| Upload gateway  | Cloudflare Worker (upload-guard)                 |
+| Deployment      | Railway (staging + production)                   |
+| Unit tests      | Vitest                                           |
+| E2E tests       | Playwright                                       |
+
+## High-Level Diagram
+
+```mermaid
+flowchart TB
+    subgraph Client ["Browser"]
+        UI["React UI<br/>(Leaflet, Radix)"]
+        IDB["IndexedDB<br/>Marker Cache"]
+    end
+
+    subgraph Railway ["Railway"]
+        Next["Next.js 16<br/>App Router"]
+        Prisma["Prisma 7"]
+        DB[(SQLite / PostgreSQL)]
+    end
+
+    subgraph Cloudflare ["Cloudflare"]
+        Worker["Upload Guard<br/>Worker"]
+        R2["R2 Bucket"]
+        CDN["CDN<br/>(pub-xxx.r2.dev)"]
+    end
+
+    Discord["Discord OAuth"]
+
+    UI <-->|API calls| Next
+    UI <-->|Cache R/W| IDB
+    UI -->|Sign in| Discord
+    Discord -->|Callback| Next
+    Next <--> Prisma
+    Prisma <--> DB
+    Next -->|Upload / Delete / Info| Worker
+    Worker <-->|R2 Binding| R2
+    R2 -->|Public read| CDN
+    CDN -->|Map images| UI
+```
