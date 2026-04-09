@@ -4,7 +4,7 @@ Currently working on a 3D Multiplayer ARPG. More info included here later in 202
 
 # Released projects
 
-Realmseer - Collaborative Web Platform. [Project description here](public-project-descriptions/project-map-website.md).
+[Realmseer](public-project-descriptions/project-map-website.md) - Collaborative Web Platform.
 
 # 💻 Domains I work with:
 ![Fullstack Development](https://img.shields.io/badge/Fullstack_Development-444444?style=for-the-badge)
