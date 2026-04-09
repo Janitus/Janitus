@@ -1,8 +1,10 @@
 # What am I working on
 
-Currently I am working on a website which will be deployed on Railway, which will be used to manage game maps and markers. The project can be seen in [Project description here](public-project-descriptions/project-map-website.md).
+Currently working on a 3D Multiplayer ARPG. More info included here later in 2026.
 
-After this, I will be resuming my work on a game project that was on hold for the time of my studies. [Project description here](public-project-descriptions/project-BulletHell.md).
+# Released projects
+
+Realmseer - Collaborative Web Platform. [Project description here](public-project-descriptions/project-map-website.md).
 
 # 💻 Domains I work with:
 ![Fullstack Development](https://img.shields.io/badge/Fullstack_Development-444444?style=for-the-badge)
