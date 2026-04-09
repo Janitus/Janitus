@@ -1,4 +1,4 @@
-To be deployed later in 2026.
+Deployed in [here](https://realmseer.up.railway.app/)
 
 # What is it?
 
