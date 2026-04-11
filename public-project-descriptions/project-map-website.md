@@ -18,14 +18,14 @@ This platform enables users to collaborate on in-game intelligence by uploading 
 - Fine-grained ACL-based access control ensuring privacy per game and across the platform  
 - Intuitive UX minimizing manual effort for both users and administrators  
 - Designed for high scalability using caching (Redis), load balancing, replication, and sharding  
-- Discord-based authentication  
+- Discord-based authentication with no personal information stored on the service
+- Activity logger with efficient filters
 
 ## Upcoming
 
-- Single Sign-On (SSO) support  
 - Mobile-optimized version
 - Additional marker types (Zones & Lines)
-- Automated AI-based Admin reports on collected data (Statistics & Logs)
+- Stats page (Admin only)
 
 ## Tech stack
 
