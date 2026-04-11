@@ -1,4 +1,4 @@
-# Released [here](https://realmseer.up.railway.app/)
+# [Released here](https://realmseer.up.railway.app/)
 
 # What is it?
 
