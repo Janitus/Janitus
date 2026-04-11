@@ -1,4 +1,5 @@
-# Deployed [here](https://realmseer.up.railway.app/)
+# Released [here](https://realmseer.up.railway.app/)
+Release Date: 9.4.2026
 
 # What is it?
 
