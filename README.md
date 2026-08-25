@@ -1,6 +1,6 @@
 # What am I working on
 
-Currently working on a 3D Multiplayer ARPG. More info included here later in 2026.
+Currently working on a 3D Multiplayer ARPG. More information TBA.
 
 # Released projects
 
